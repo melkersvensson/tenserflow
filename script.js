@@ -1,5 +1,5 @@
 /*
- *      MAIN LAB
+ *      MAIN LAB (MELLE)
  *      https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/index.html#6
  *
  *      DEMO
